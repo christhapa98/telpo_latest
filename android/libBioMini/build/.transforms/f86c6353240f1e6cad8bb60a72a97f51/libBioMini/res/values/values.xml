@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autocapture_sensitivity">
+        <item>FLAT_SENSITIVITY_NORMAL</item>
+        <item>FLAT_SENSITIVITY_HIGH</item>
+        <item>FLAT_SENSITIVITY_HIGHER</item>
+        <item>FLAT_SENSITIVITY_STRICT</item>
+    </string-array>
+    <string-array name="autocapture_sensitivity_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="lfd_file_format">
+        <item>Raw</item>
+        <item>Bitmap</item>
+    </string-array>
+    <string-array name="lfd_file_format_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBorder">#59D5D5D5</color>
+    <color name="colorButton">#599F2D48</color>
+    <color name="colorPrimary">#9F2D48</color>
+    <color name="colorPrimaryDark">#7A0202</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colordarkmode">#303030</color>
+    <string name="app_name">RealScanAndroidLib</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="messages_header">Messages</string>
+    <string name="pref_autocapture_sensitivity_activate">autocapture sensitivity activate</string>
+    <string name="pref_autocapture_sensitivity_activate_summery">autocapture sensitivity enable/disable</string>
+    <string name="pref_autocapture_sensitivity_summery">select autocapture sensitivity value.</string>
+    <string name="pref_autocapture_sensitivity_value">autocapture sensitivity value</string>
+    <string name="pref_clear_image_folder">Clear Image Folder</string>
+    <string name="pref_lfd_score">LFD SCORE</string>
+    <string name="pref_lfdfileformat">Live Finger Detection File Format</string>
+    <string name="pref_lfdfromfolder">Live Finger Detection From folder</string>
+    <string name="pref_lfdfromimagefile">Live Finger Detection From Image File</string>
+    <string name="pref_preprocess_activate">preprocess activate</string>
+    <string name="pref_preprocess_activate_summery">preprocess function enable/disable</string>
+    <string name="pref_save_capture_image">Auto Save Capture Image</string>
+    <string name="pref_save_capture_image_summery">do save capture image as selected file format</string>
+    <string name="pref_summery_lfdfileformat">Select image file format with File browser.</string>
+    <string name="pref_summery_lfdfromfolder">Create BioMini_LFD Folder and Copy the file to the folder.</string>
+    <string name="pref_summery_lfdfromimagefile">Select Image File with File browser. </string>
+    <string name="prefcategory_lfd">Live Finger Detection</string>
+    <string name="prefcategory_util">UTIL</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="signature_title">Your signature</string>
+    <string name="sync_header">Sync</string>
+    <string name="sync_title">Sync email periodically</string>
+</resources>
